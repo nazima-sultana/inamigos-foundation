@@ -1,0 +1,6 @@
+{
+  "name": "InAmigos Foundation",
+  "description": "Official single-page website of InAmigos Foundation - Uniting Minds for Change NGO based in Bilaspur, Chhattisgarh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
